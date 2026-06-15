@@ -1,4 +1,4 @@
-# Hi 👋, I'm Pyare Lal
+# Hi 👋, I'm Pyare
 
 ### Senior Full Stack Engineer | React • Next.js • Node.js • Flutter • AWS
 
